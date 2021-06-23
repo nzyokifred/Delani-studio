@@ -25,3 +25,5 @@ To see how the project works, visit the deployment link [here](https://nzyokifre
 - Javascript
 - Bootstrap
 - jQuery
+## Known bugs
+<!-- No bugs detected -->
