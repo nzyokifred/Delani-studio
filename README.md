@@ -19,3 +19,9 @@ You are very much welcome to make any necessary changes to this webpage by follo
 - The project should use mailchimp API to track emails and messages from the user.
 ## Deployed live link
 To see how the project works, visit the deployment link [here](https://nzyokifred.github.io/Delani-studio/)
+## Technologies used
+- HTML5
+- CSS
+- Javascript
+- Bootstrap
+- jQuery
