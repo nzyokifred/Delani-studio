@@ -17,3 +17,5 @@ You are very much welcome to make any necessary changes to this webpage by follo
 - The user is able to enter their name and email address and leave a message for Delani Studios
 - The user should be notified by their name through a pop up box that their message has been received.
 - The project should use mailchimp API to track emails and messages from the user.
+## Deployed live link
+To see how the project works, visit the deployment link [here](https://nzyokifred.github.io/Delani-studio/)
