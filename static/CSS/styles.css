@@ -3,7 +3,7 @@ body {
 }
 
 .land-page {
-    background-image: url(static/IMAGES/h_img.jpg);
+    background-image: url(../IMAGES/h_img.jpg);
     color: white;
     background-size: cover;
     background-position: center;
@@ -12,7 +12,7 @@ body {
 }
 
 .services {
-    background-image: url(static/IMAGES/s_image.jpg);
+    background-image: url(../IMAGES/s_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -30,7 +30,7 @@ body {
 }
 
 .contact {
-    background-image: url(static/IMAGES/c_image.jpg);
+    background-image: url(../IMAGES/c_image.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
